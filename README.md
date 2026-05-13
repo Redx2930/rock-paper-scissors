@@ -61,4 +61,4 @@ This project was built to improve:
 
 ## Author
 
-Developed by Dva.11
+Developed by Adhrit Panjala (Dva.11)
