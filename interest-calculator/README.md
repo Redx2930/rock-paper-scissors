@@ -24,15 +24,14 @@ This project was built to strengthen Python fundamentals while applying mathemat
 ## Formulas Used
 
 ### Simple Interest
-[
-SI = \frac{P \times R \times T}{100}
-]
+
+SI = (P*T*R)/100
 
 ### Compound Interest
 
-[
-A = P \left(1 + \frac{R}{100}\right)^T
-]
+A = P(1 + r/100)**n
+
+CI = A - P
 
 Where:
 
