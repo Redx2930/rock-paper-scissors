@@ -78,6 +78,6 @@ As I continue learning, this repository will expand into:
 
 ## Author
 
-Adhrit Panjala
+Sri Adhrit Panjala (Dva.11)
 
 Python • Machine Learning • Generative AI
