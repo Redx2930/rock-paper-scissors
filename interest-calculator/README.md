@@ -64,4 +64,4 @@ This project was created to:
 
 Sri Adhrit Panjala (Dva.11)
 
-Python • Machine Learning • Generative AI 5
+Python • Machine Learning • Generative AI 
